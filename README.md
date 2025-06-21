@@ -1,6 +1,6 @@
 Contact: gonultasbu #at# gmail #dot# com
 
-Some of the publications:
+Some of my publications:
 
 [Pursuit-Evasion for Car-like Robots with Sensor Constraints](https://gonultasbu.github.io/pursuit-evasion/)  
 [Neural L1 Adaptive Control of Vehicle Lateral Dynamics](https://mukhe027.github.io/Neural-Adaptive-Control/)  
