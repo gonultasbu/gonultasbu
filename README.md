@@ -1,4 +1,4 @@
-Contact: gonultasbu #at# gmail #dot# com
+Contact: gonul004 #at# umn #dot# edu
 
 Some of my publications:
 
